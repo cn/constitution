@@ -1,3 +1,10 @@
-name: Open Government of China
+name: Open Data of China
+timezone: Asia/Shanghai
 markdown: redcarpet
-pygments: false
+highlight: null
+permalink: /:year-:month-:day.html
+
+redcarpet:
+  extensions:
+    - no_intra_emphasis
+    - lax_spacing
