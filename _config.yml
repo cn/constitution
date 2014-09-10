@@ -1,10 +1,5 @@
 name: Open Data of China
 timezone: Asia/Shanghai
-markdown: redcarpet
+markdown: kramdown
 highlight: null
 permalink: /:year-:month-:day.html
-
-redcarpet:
-  extensions:
-    - no_intra_emphasis
-    - lax_spacing
