@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "中华人民共和国宪法（1982年）"
+source: http://www.npc.gov.cn/wxzl/wxzl/2000-12/06/content_4421.htm
 date: 1982-12-04
 ---
 

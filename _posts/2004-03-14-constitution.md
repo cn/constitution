@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "中华人民共和国宪法"
+source: http://www.gov.cn/gongbao/content/2004/content_62714.htm
 date: 2004-03-14
 ---
 
